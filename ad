@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boost Your Ads with AI - Free Trial</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            animation: fadeIn 2s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(90deg, #ff7eb3, #ff758c);
+            color: white;
+            font-size: 18px;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: transform 0.3s;
+        }
+        .cta-button:hover {
+            transform: scale(1.1);
+        }
+        .benefits, .testimonials {
+            padding: 20px;
+            animation: slideIn 1.5s ease-in-out;
+        }
+        @keyframes slideIn {
+            from { transform: translateY(30px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Boost Your Ads with AI</h1>
+        <p>Generate high-converting ad creatives in seconds!</p>
+        <a href="https://free-trial.adcreative.ai/hz09sytheoj9" class="cta-button">Start Your Free Trial</a>
+    </header>
+
+    <section class="benefits">
+        <h2>Why Choose AdCreative.ai?</h2>
+        <ul>
+            <li>🚀 AI-powered ad creatives for better conversions</li>
+            <li>🎯 Data-driven insights to optimize performance</li>
+            <li>⏳ Save time and boost efficiency</li>
+            <li>📈 Improve ROI with high-quality ad visuals</li>
+        </ul>
+    </section>
+
+    <section class="testimonials">
+        <h2>What Our Users Say</h2>
+        <blockquote>"AdCreative.ai increased our ad engagement by 200%!" - Marketing Expert</blockquote>
+    </section>
+
+    <footer>
+        <p>Start your AI-powered ad journey today! <a href="https://free-trial.adcreative.ai/hz09sytheoj9">Sign up now</a></p>
+    </footer>
+</body>
+</html>
